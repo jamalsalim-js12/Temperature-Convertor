@@ -1,5 +1,10 @@
 # Temperature Converter
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/31bc623d-36b6-429b-9dc1-5a9e60de1707/deploy-status)](https://app.netlify.com/sites/temp-convertor-12/deploys)
+![GitHub repo size](https://img.shields.io/github/repo-size/Jamalsalim-js12/Temperature-Convertor)
+![GitHub issues](https://img.shields.io/github/issues/Jamalsalim-js12/Temperature-Convertor)
+![GitHub stars](https://img.shields.io/github/stars/Jamalsalim-js12/Temperature-Convertor)
+
 Welcome to the Temperature Converter project! This simple web application allows you to convert temperatures between Celsius and Fahrenheit.
 
 ## Preview
