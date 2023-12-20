@@ -18,7 +18,7 @@ Welcome to the Temperature Converter project! This simple web application allows
 - Real-time conversion as you type.
 
 ## How to Use
-
+&nbsp; &nbsp; [Click Here](https://temp-convertor-12.netlify.app) <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OR
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/jamalsalim-js12/Temperature-Convertor.git
